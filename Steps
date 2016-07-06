@@ -1,0 +1,15 @@
+http://www.oauthforaspnet.com/providers/twitter/guides/aspnet-mvc5/
+
+Login 
+EmailID : richa.patel@credencys.com
+ID : @DotNetDev
+pass: credencys@dev
+
+To send a Tweet using your C# application,  first of all you will need to create an application by going to the following link:
+
+https://apps.twitter.com/
+Create new app
+Name: LoginIntegration
+Website : http://localhost:2363/
+callbackURL : http://localhost:2363/
+
